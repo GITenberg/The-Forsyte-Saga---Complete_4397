@@ -1,0 +1,40 @@
+_repo: The-Forsyte-Saga---Complete_4397
+_version: 0.0.1
+covers:
+- cover_type: archival
+  image_path: 4397/4397-h/images/cover.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Galsworthy, John
+    alias: Sinjohn, John
+    birthdate: 1867
+    deathdate: 1933
+    gutenberg_agent_id: '850'
+    url: http://www.gutenberg.org/2009/agents/850
+    wikipedia: http://en.wikipedia.org/wiki/John_Galsworthy
+description: v. 1. The man of property -- v. 2. Indian summer of a Forsyte ; In Chancery
+  -- v. 3. Awakening ; To let.
+gutenberg_issued: '2006-06-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4397'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'England -- Social life and customs -- 20th century -- Fiction'
+- !lcsh 'Middle class -- England -- Fiction'
+- !lcsh 'England -- Social life and customs -- 19th century -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Families -- England -- Fiction'
+- !lcsh 'Women -- England -- Fiction'
+- !lcsh 'Domestic fiction'
+- !lcsh 'Forsyte family (Fictitious characters) -- Fiction'
+- GITenberg
+tableOfContents: The Man of Property -- Indian Summer of a Forsyte -- In Chancery
+  -- Awakening -- To Let.
+title: The Forsyte Saga - Complete
+url: http://www.gutenberg.org/ebooks/4397
