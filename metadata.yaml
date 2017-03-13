@@ -1,10 +1,8 @@
 _repo: The-Forsyte-Saga---Complete_4397
-_version: 0.1.0
+_version: 0.2.0
 covers:
 - cover_type: archival
-  image_path: 4397/4397-h/images/cover.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+  image_path: 4397-h/images/cover.jpg
 creator:
   author:
     agent_name: Galsworthy, John
@@ -16,6 +14,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/John_Galsworthy
 description: v. 1. The man of property -- v. 2. Indian summer of a Forsyte ; In Chancery
   -- v. 3. Awakening ; To let.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4397#The-Forsyte-Saga---Complete
 gutenberg_issued: '2006-06-14'
 gutenberg_type: Text
 identifiers:
